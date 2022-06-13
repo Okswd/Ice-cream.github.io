@@ -55,9 +55,9 @@ h3 {
 	font-family: 'Hind Madurai';
 	font-weight: 700;
 	font-size: 16px;
-	line-height: 22px;
+	line-height: 18px;
 	color: #FAFAFA;
-	padding: 14px 50px 13px;
+	padding: 16px 50px 13px;
 	display: block;
 	width: 165px;
 	height: 49px;
@@ -168,9 +168,8 @@ section:hover .design-img {
 }
 
 .offer__btn {
-	display: inline;
   width: auto;
-  padding: 20px 50px 18px;
+  padding: 19px 50px 18px;
 }
 
 .app-screen_header {
